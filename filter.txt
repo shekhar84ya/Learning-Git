@@ -1,1 +1,1 @@
-##.related-items-container > .single-column-watch-next-modern-panels.scwnr-content > lazy-list
+*.youtube.com##.related-items-container > .single-column-watch-next-modern-panels.scwnr-content > lazy-list
